@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Praboda
+#### I'm a person who loves programming.
+I've been doing programming since my childhood. I think a programmer is not a person who knows almost all the programming languages. There should be many other qualities, such as creative thinking, problem-solving skills, the ability to work hard, interact with a team, and many more. I'm sure I have these qualities, and I'm always trying to sharpen these skills. I am always doing programming projects using programming languages that I already know, rather than making the jump into different programming languages. 
 
-<!--
-**PrabodaSankalpa/PrabodaSankalpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / JavaScript / PHP / Node JS / React JS / Vue JS / Meteor JS
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning for my degree 
+- 👯 I’m looking to collaborate on a open-source project 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrabodaSankalpa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/praboda-sankalpa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PrabodaSankalpa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16920954)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabodaSankalpa)](https://github.com/anuraghazra/github-readme-stats)
+
