@@ -4,14 +4,14 @@ I've been doing programming since my childhood. I think a programmer is not a pe
 
 ##Skills :
 
-🧡HTML
-💙CSS
-💛JavaScript
-💜PHP
-💚Node JS
-⚛ React JS
-❇ Vue JS
-🔸Meteor JS
+* 🧡HTML
+* 💙CSS
+* 💛JavaScript
+* 💜PHP
+* 💚Node JS
+* ⚛ React JS
+* ❇ Vue JS
+* 🔸Meteor JS
 
 - 🌱 I’m currently reading for my degree.
 - 👯 I’m looking to collaborate on a open-source project.
