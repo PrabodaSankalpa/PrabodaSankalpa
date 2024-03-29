@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Praboda
+### Hi there 👋, I'm Praboda Sankalpa
 #### I'm a person who loves programming.
 I've been doing programming since my childhood. I think a programmer is not a person who knows almost all the programming languages. There should be many other qualities, such as creative thinking, problem-solving skills, the ability to work hard, interact with a team, and many more. I'm sure I have these qualities, and I'm always trying to sharpen these skills. I am always doing programming projects using programming languages that I already know, rather than making the jump into different programming languages. 
 
